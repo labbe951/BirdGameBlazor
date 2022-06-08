@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-c1dVVfosFaf5aiS3brr2amBi1Ue0kg6mqECzmCbGyfA=",
       "netstandard.dll": "sha256-+9Yr\/gSP3tCZAMbOdAcGhHGuMcyg\/AaxVKtt3tGsvao=",
       "System.Private.CoreLib.dll": "sha256-SnxOe5QK250duVAQOw0iWr1sODhUuVEUykExQyQ\/WSk=",
-      "BirdGameDemo.Web.dll": "sha256-ybfpZQsiUt0xM6wozHjIpynr0ZGGrXVxpRTE6rtIU5k="
+      "BirdGameDemo.Web.dll": "sha256-WPODK4\/7mmO\/RKR\/h7NlOEPpcjnc3Ba4ujfTbJnVFx0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BirdGameDemo.Web.pdb": "sha256-p8sOXK06AhQUg5o8SmjViHmwe\/ibLSWzXsEd8RqXEac="
+      "BirdGameDemo.Web.pdb": "sha256-ooPw04j8wQdJXa8XTbdiwGTTWwDbNfneEQneD+vIAWM="
     },
     "runtime": {
       "dotnet.6.0.2.gzwswzwlk8.js": "sha256-wbTVn69TU0+WI83iB+kky8tf\/BjZdYJeM0rUP96ur\/c=",

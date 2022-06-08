@@ -23,6 +23,7 @@ namespace BirdGameDemo.Web.Models
             {
                 Bird.Fall(_gravity);
                 PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(Bird)));
+
                 if (Bird.DistanceFromGround <= 0)
                     GameOver();
 
