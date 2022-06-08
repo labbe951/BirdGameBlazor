@@ -597,7 +597,6 @@ C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\bin\Debug\net6
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\bin\Debug\net6.0\icudt_CJK.dat
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\bin\Debug\net6.0\icudt_EFIGS.dat
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\bin\Debug\net6.0\icudt_no_CJK.dat
-C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\BirdGameDemo.Web.csproj.AssemblyReference.cache
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\BirdGameDemo.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\BirdGameDemo.Web.AssemblyInfoInputs.cache
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\BirdGameDemo.Web.AssemblyInfo.cs
@@ -806,7 +805,6 @@ C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\scopedcss\bundle\BirdGameDemo.Web.styles.css
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\scopedcss\projectbundle\BirdGameDemo.Web.bundle.scp.css
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\BirdGameDemo.Web.csproj.CopyComplete
