@@ -22,8 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/PontusHaglund/source/repos/BirdGameDemo/BirdGameDemo.Web/Components/Bird.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCaXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/PontusHaglund/source/repos/BirdGameDemo/BirdGameDemo.Web/Components/GameContainer.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHYW1lQ29udGFpbmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PontusHaglund/source/repos/BirdGameDemo/BirdGameDemo.Web/Components/Pipe.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQaXBlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/PontusHaglund/source/repos/BirdGameDemo/BirdGameDemo.Web/Pages/Index.razor]
