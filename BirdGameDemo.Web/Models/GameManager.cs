@@ -58,12 +58,19 @@ namespace BirdGameDemo.Web.Models
             if (Bird.IsOnGround())
                 GameOver();
 
-            
+            // 1. Kolla om det finns ett rör i mitten.
+            var centeredPipe = Pipes.FirstOrDefault(p => p.IsCentered());
 
-            // 1. Check for a pipe in the middle
-            // 2. If there is a pipe check for collosion with:
-            // 2a. Bottom pipe
-            // 2b. Top pipe
+            // 2. Det ska finnas en check som kollar om någonring har kolliderat:
+            if (centeredPipe != null)
+            {
+                bool hasCollidedWithBottom = Bird.DistanceFromGround < centeredPipe.GapBottom - 150;
+                // +45 är höjden på fågeln. 
+                bool hasCollidedWithTop = Bird.DistanceFromGround + 45 > centeredPipe.GapTop - 150;
+                // 2a. Nedre röret  2b. Övre röret.
+                if (hasCollidedWithBottom || hasCollidedWithTop)
+                    GameOver();
+            }
 
         }
 
