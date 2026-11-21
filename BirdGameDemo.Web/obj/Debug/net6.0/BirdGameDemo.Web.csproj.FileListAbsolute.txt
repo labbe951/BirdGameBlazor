@@ -811,3 +811,4 @@ C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\BirdGameDemo.Web.dll
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\ref\BirdGameDemo.Web.dll
 C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\BirdGameDemo.Web.pdb
+C:\Users\PontusHaglund\source\repos\BirdGameDemo\BirdGameDemo.Web\obj\Debug\net6.0\BirdGameDemo.Web.csproj.AssemblyReference.cache
